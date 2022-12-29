@@ -1,9 +1,8 @@
 # dotfiles
-hey! these are my dotfiles for my desktop.
+hey! these are my dotfiles for my desktop
 
-WMs/DEs that are included in my dotfiles
+showcase:
 
-i3wm
-KDE Plasma
-XFCE4
 
+
+![thingy](https://user-images.githubusercontent.com/117184306/209936255-d61069db-cbce-49fb-92e3-d4bf389143a0.png)
